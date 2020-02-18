@@ -5,6 +5,9 @@ public class Calificacion {
 	//dejen comentado su nombre
 	//Santiago
 	// APARECE?
-	String santiagoElGod;
+
 	//guillo
+
+	// CAMBIO 1
+
 }
